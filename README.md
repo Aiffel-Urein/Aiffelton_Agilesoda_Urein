@@ -19,3 +19,6 @@
 
 [바닥부터 시작하는 강화학습](https://github.com/seungeunrho/RLfrombasics)
 
+## Notion Page
+[우린(Urein)](https://www.notion.so/Urein-54f86ceb881b40879de67cd29f2f7d13)
+
