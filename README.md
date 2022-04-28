@@ -8,7 +8,7 @@
 ## 🤔 who is Urien  우린 누구냐면..
 
 | Name  | Github  | E.T.  |
-| :------------ |:---------------:| -----:|
+| :------------ |:---------------| -----:|
 | 박준희      | https://github.com/phthys | Team Leader |
 | 정문희      | https://github.com/flowerJung |  |
 | 이광민      | https://github.com/kwang-min-lee1 |  |
