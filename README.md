@@ -110,3 +110,20 @@ baseline 이기 때문에 최소한의 조치만 해둔 상태이다.
 - 다익스트라, A star 의 알고리즘으로과의 성능 비교
 
 4. 프로젝트 심화(방식 미정)
+
+## 👨‍👩‍👧‍👦 우리들의 Git Flow
+
+### ⚡ 구성요소
+1. main branch (실제 프로젝트. 계속 남아있음)
+2. develop branch (다음 업데이트 버전을 개발)
+
+develop bracnh 를 업데이트 하여 main branch 를 관리한다.
+
+### 🐳 방법
+
+1. 원본 소스를 Fork
+2. 각자 개인 branch 에서 작업 및 코드 수정
+3. Pull request 후 내용 공유
+4. 팀장(박준희) 검토 후 commit. 논의가 필요한 내용은 토의.
+5. Fetch
+
